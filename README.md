@@ -19,3 +19,4 @@ add index.html
 add to do list
 add helper function - 1
 setup project layout - 2
+adjust styling - 3
