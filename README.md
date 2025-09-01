@@ -18,3 +18,4 @@ Commit 1st line
 add index.html
 add to do list
 add helper function - 1
+setup project layout - 2
