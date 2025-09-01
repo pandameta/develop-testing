@@ -22,3 +22,4 @@ setup project layout - 2
 adjust styling - 3
 improve error handling - 4
 fix edge case - 5
+add basic README - 6
