@@ -41,3 +41,4 @@ improve readability - 21
 setup project layout - 22
 add helper function - 23
 fix edge case - 24
+small UI tweak - 25
