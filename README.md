@@ -29,3 +29,4 @@ add todo list logic - 9
 fix minor bug - 10
 improve UI structure - 11
 refactor code - 12
+fix edge case - 13
