@@ -35,3 +35,4 @@ adjust styling - 15
 add comments - 16
 setup project layout - 17
 refactor code - 18
+add helper function - 19
