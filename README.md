@@ -43,3 +43,4 @@ add helper function - 23
 fix edge case - 24
 small UI tweak - 25
 update dependencies - 26
+small UI tweak - 27
