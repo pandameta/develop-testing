@@ -67,3 +67,4 @@ fix edge case - 47
 update documentation - 48
 add todo list logic - 49
 add comments - 50
+small UI tweak - 51
