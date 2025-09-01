@@ -31,3 +31,4 @@ improve UI structure - 11
 refactor code - 12
 fix edge case - 13
 setup project layout - 14
+adjust styling - 15
