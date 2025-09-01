@@ -25,3 +25,4 @@ fix edge case - 5
 add basic README - 6
 improve error handling - 7
 adjust styling - 8
+add todo list logic - 9
